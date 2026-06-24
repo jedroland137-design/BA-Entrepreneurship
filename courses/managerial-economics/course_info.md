@@ -90,4 +90,4 @@ When revising, focus on:
 
 ## 6. RELATION TO MASTER INDEX
 
-This file is indexed in MASTER_INDEX.md and forms the primary summary layer for this course.
+This file is indexed in MasterIndex.md and forms the primary summary layer for this course.
