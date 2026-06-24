@@ -4,9 +4,11 @@
 
 ## 1. STRUCTURAL TRUTH (Canonical File Tree)
 
+```text
 BA-Entrepreneurship/
 ├── MasterIndex
 ├── README.md
+├── REPOMAP.md
 ├── courses/
 │   └── managerial-economics/
 │       ├── course_info.md
@@ -20,8 +22,8 @@ BA-Entrepreneurship/
 │   └── .gitkeep
 ├── thesis/
 │   └── .gitkeep
+```
 
----
 
 
 ## 2. NAVIGATION LAYER (Semantic Interpretation)
@@ -29,6 +31,7 @@ BA-Entrepreneurship/
 ### Core
 - MasterIndex → primary navigation hub (authoritative structure)
 - README.md → general overview
+- REPOMAP.md → REPOMAP defines structural truth (file system)
 
 ---
 
