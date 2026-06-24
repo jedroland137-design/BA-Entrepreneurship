@@ -115,7 +115,7 @@ Location: `/courses/start-up-financing/`
 Location: `/programme-documents/`
 - Entrepreneurship_Bachelor_English_Course Schedule OnCampus.pdf → alternative schedule version
 - ba_entrepreneurship_ModuleGuide_en.pdf → programme structure guide
-- sap_ba_entrepreneurship_Course Schedule.pdf → official schedule
+- sap_ba_entrepreneurship_Course Schedule.pdf → Official Off-Campus Schedule
 
 ---
 
