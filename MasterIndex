@@ -1,1 +1,86 @@
+# BA Entrepreneurship – Knowledge Repository Index
 
+This is the master navigation file for the entire degree repository.
+
+It contains:
+- Local repository paths (for GitHub navigation)
+- Full GitHub URLs (for external access + AI use)
+
+---
+
+## 📌 HOW TO USE THIS INDEX
+
+- Use LOCAL PATHS when browsing inside GitHub
+- Use FULL URLs when sharing with ChatGPT or external tools
+- Always start with course_info.md before textbooks
+
+---
+
+
+
+## 📚 PROGRAMME DOCUMENTS (GLOBAL)
+
+### Programme Module (All Courses Overview)
+- Path: `programme-documents/ba_entrepreneurship_ModuleGuide_en.pdf`
+- URL: https://github.com/jedroland137-design/BA-Entrepreneurship/blob/87838ff094fc5adbf3524751c1af722d61e2a401/programme-documents/ba_entrepreneurship_ModuleGuide_en.pdf
+
+### OnCampus Course Schedule
+- Path: `programme-documents/Entrepreneurship_Bachelor_English_Course Schedule OnCampus.pdf`
+- URL: https://github.com/jedroland137-design/BA-Entrepreneurship/blob/87838ff094fc5adbf3524751c1af722d61e2a401/programme-documents/Entrepreneurship_Bachelor_English_Course%20Schedule%20OnCampus.pdf
+
+### Programme Module (All Courses Overview)
+- Path: `programme-documents/sap_ba_entrepreneurship_Course Schedule.pdf`
+- URL: https://github.com/jedroland137-design/BA-Entrepreneurship/blob/87838ff094fc5adbf3524751c1af722d61e2a401/programme-documents/sap_ba_entrepreneurship_Course%20Schedule.pdf
+
+---
+
+
+
+## 📊 MANAGERIAL ECONOMICS
+
+### Course Overview
+- Path: `courses/managerial-economics/course_info.md`
+- URL: https://github.com/jedroland137-design/BA-Entrepreneurship/blob/87838ff094fc5adbf3524751c1af722d61e2a401/courses/managerial-economics/course_info.md
+
+### Textbook
+- Path: `courses/managerial-economics/managerial-economics-coursebook.pdf`
+- URL: https://github.com/jedroland137-design/BA-Entrepreneurship/blob/87838ff094fc5adbf3524751c1af722d61e2a401/courses/managerial-economics/managerial-economics-coursebook.pdf
+
+### Notes Folder
+- Path: `courses/managerial-economics/Managerial Economics Notes 1.docx`
+- URL: https://github.com/jedroland137-design/BA-Entrepreneurship/blob/87838ff094fc5adbf3524751c1af722d61e2a401/courses/managerial-economics/Managerial%20Economics%20Notes%201.docx
+
+---
+
+
+
+## 🎓 THESIS
+
+- Path: `thesis`
+- URL: https://github.com/jedroland137-design/BA-Entrepreneurship/tree/87838ff094fc5adbf3524751c1af722d61e2a401/thesis
+
+### Research Notes
+- Path: 
+- URL: 
+
+### Drafts
+- Path: 
+- URL: 
+
+---
+
+
+## 📂 REFERENCES
+
+- Path: `references`
+- URL: https://github.com/jedroland137-design/BA-Entrepreneurship/tree/87838ff094fc5adbf3524751c1af722d61e2a401/references
+---
+
+
+
+## 🧠 RULE OF USE
+
+1. Always start with COURSE_INFO.md
+2. Use textbook only for clarification
+3. Use notes for revision
+4. MasterIndex is the only navigation entry point
