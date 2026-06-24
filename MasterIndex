@@ -8,6 +8,9 @@ It contains:
 
 ---
 
+
+
+
 ## 📌 HOW TO USE THIS INDEX
 
 - Use LOCAL PATHS when browsing inside GitHub
@@ -17,6 +20,7 @@ It contains:
 - Programme documents define official curriculum constraints
 
 ---
+
 
 
 
@@ -38,8 +42,59 @@ It contains:
 
 
 
+
 ## 📊 courses
 
+
+### 📘 ACCOUNTING & BALANCING
+
+#### Course Overview
+- Path: `courses/accounting-&-balancing/course_info.md`
+- URL: https://github.com/jedroland137-design/BA-Entrepreneurship/blob/87b93c21c3ac076404ebed4672d68e4246ab9d43/courses/accounting-&-balancing/course_info.md
+
+#### Textbook
+- Path: `courses/accounting-&-balancing/accounting-&-balancing-coursebook.pdf`
+- URL: https://github.com/jedroland137-design/BA-Entrepreneurship/blob/87b93c21c3ac076404ebed4672d68e4246ab9d43/courses/accounting-&-balancing/accounting-&-balancing-coursebook.pdf
+
+#### Notes Folder
+- Path: `courses/accounting-&-balancing/Accounting & Balancing Notes 1.pdf`
+- URL: https://github.com/jedroland137-design/BA-Entrepreneurship/blob/87b93c21c3ac076404ebed4672d68e4246ab9d43/courses/accounting-&-balancing/Accounting%20%26%20Balancing%20Notes%201.pdf
+
+---
+
+
+### 🌍 INTERNATIONAL CONTRACT MANAGEMENT
+
+#### Course Overview
+- Path: `courses/international-contract-management/course_info.md`
+- URL: https://github.com/jedroland137-design/BA-Entrepreneurship/blob/87b93c21c3ac076404ebed4672d68e4246ab9d43/courses/international-contract-management/course_info.md
+
+#### Textbook
+- Path: `courses/international-contract-management/int-contract-management-coursebook.pdf`
+- URL: https://github.com/jedroland137-design/BA-Entrepreneurship/blob/87b93c21c3ac076404ebed4672d68e4246ab9d43/courses/international-contract-management/int-contract-management-coursebook.pdf
+
+#### Notes Folder
+- Path: `courses/international-contract-management/Int. Contract Management Notes 1.docx`
+- URL: https://github.com/jedroland137-design/BA-Entrepreneurship/blob/87b93c21c3ac076404ebed4672d68e4246ab9d43/courses/international-contract-management/Int.%20Contract%20Management%20Notes%201.docx
+
+---
+
+
+### 📈 MANAGERIAL ACCOUNTING
+
+#### Course Overview
+- Path: `courses/managerial-accounting/course_info.md`
+- URL: https://github.com/jedroland137-design/BA-Entrepreneurship/blob/87b93c21c3ac076404ebed4672d68e4246ab9d43/courses/managerial-accounting/course_info.md
+
+#### Textbook
+- Path: `courses/managerial-accounting/managerial-accounting-coursebook.pdf`
+- URL: https://github.com/jedroland137-design/BA-Entrepreneurship/blob/87b93c21c3ac076404ebed4672d68e4246ab9d43/courses/managerial-accounting/managerial-accounting-coursebook.pdf
+
+#### Notes Folder
+- Path: `courses/managerial-accounting/Managerial Accounting Notes 1.docx`
+- URL: https://github.com/jedroland137-design/BA-Entrepreneurship/blob/87b93c21c3ac076404ebed4672d68e4246ab9d43/courses/managerial-accounting/Managerial%20Accounting%20Notes%201.docx
+
+---
 
 
 ### 📊 MANAGERIAL ECONOMICS
@@ -59,6 +114,24 @@ It contains:
 ---
 
 
+### 💰 START-UP FINANCING
+
+#### Course Overview
+- Path: `courses/start-up-financing/course_info.md`
+- URL: https://github.com/jedroland137-design/BA-Entrepreneurship/blob/87b93c21c3ac076404ebed4672d68e4246ab9d43/courses/start-up-financing/course_info.md
+
+#### Textbook
+- Path: `courses/start-up-financing/start-up-financing-coursebook.pdf`
+- URL: https://github.com/jedroland137-design/BA-Entrepreneurship/blob/87b93c21c3ac076404ebed4672d68e4246ab9d43/courses/start-up-financing/start-up-financing-coursebook.pdf
+
+#### Notes Folder
+- Path: `courses/start-up-financing/Start-Up Financing Notes 1.docx`
+- URL: https://github.com/jedroland137-design/BA-Entrepreneurship/blob/87b93c21c3ac076404ebed4672d68e4246ab9d43/courses/start-up-financing/Start-Up%20Financing%20Notes%201.docx
+
+---
+
+
+
 
 ## 📂 REFERENCES
 
@@ -66,6 +139,7 @@ It contains:
 - URL: https://github.com/jedroland137-design/BA-Entrepreneurship/tree/87838ff094fc5adbf3524751c1af722d61e2a401/references
 
 ---
+
 
 
 
@@ -86,10 +160,12 @@ It contains:
 
 
 
+
 ## 🌳 REPOMAP
 
 - Path: `REPOMAP.md`
 - URL: https://github.com/jedroland137-design/BA-Entrepreneurship/blob/0f06b3c26deb22d3a1d60b1145d4e884453cb317/REPOMAP.md
+
 
 
 
