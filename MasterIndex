@@ -13,6 +13,8 @@ It contains:
 - Use LOCAL PATHS when browsing inside GitHub
 - Use FULL URLs when sharing with ChatGPT or external tools
 - Always start with course_info.md before textbooks
+- Each course is self-contained in its folder
+- Programme documents define official curriculum constraints
 
 ---
 
