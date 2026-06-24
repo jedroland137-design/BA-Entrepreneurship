@@ -38,19 +38,32 @@ It contains:
 
 
 
-## 📊 MANAGERIAL ECONOMICS
+## 📊 courses
 
-### Course Overview
+
+
+### 📊 MANAGERIAL ECONOMICS
+
+#### Course Overview
 - Path: `courses/managerial-economics/course_info.md`
 - URL: https://github.com/jedroland137-design/BA-Entrepreneurship/blob/87838ff094fc5adbf3524751c1af722d61e2a401/courses/managerial-economics/course_info.md
 
-### Textbook
+#### Textbook
 - Path: `courses/managerial-economics/managerial-economics-coursebook.pdf`
 - URL: https://github.com/jedroland137-design/BA-Entrepreneurship/blob/87838ff094fc5adbf3524751c1af722d61e2a401/courses/managerial-economics/managerial-economics-coursebook.pdf
 
-### Notes Folder
+#### Notes Folder
 - Path: `courses/managerial-economics/Managerial Economics Notes 1.docx`
 - URL: https://github.com/jedroland137-design/BA-Entrepreneurship/blob/87838ff094fc5adbf3524751c1af722d61e2a401/courses/managerial-economics/Managerial%20Economics%20Notes%201.docx
+
+---
+
+
+
+## 📂 REFERENCES
+
+- Path: `references`
+- URL: https://github.com/jedroland137-design/BA-Entrepreneurship/tree/87838ff094fc5adbf3524751c1af722d61e2a401/references
 
 ---
 
@@ -72,11 +85,11 @@ It contains:
 ---
 
 
-## 📂 REFERENCES
 
-- Path: `references`
-- URL: https://github.com/jedroland137-design/BA-Entrepreneurship/tree/87838ff094fc5adbf3524751c1af722d61e2a401/references
----
+## 🌳 REPOMAP
+
+- Path: `REPOMAP.md`
+- URL: https://github.com/jedroland137-design/BA-Entrepreneurship/blob/0f06b3c26deb22d3a1d60b1145d4e884453cb317/REPOMAP.md
 
 
 
