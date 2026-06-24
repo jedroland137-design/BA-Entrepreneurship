@@ -7,7 +7,7 @@
 ```text
 BA-Entrepreneurship/
 
-├── MasterIndex
+├── MasterIndex.md
 ├── README.md
 ├── REPOMAP.md
 ├── courses/
