@@ -34,7 +34,7 @@ It contains:
 - Path: `programme-documents/Entrepreneurship_Bachelor_English_Course Schedule OnCampus.pdf`
 - URL: https://github.com/jedroland137-design/BA-Entrepreneurship/blob/87838ff094fc5adbf3524751c1af722d61e2a401/programme-documents/Entrepreneurship_Bachelor_English_Course%20Schedule%20OnCampus.pdf
 
-### Programme Module (All Courses Overview)
+### Official Off-Campus Schedule
 - Path: `programme-documents/sap_ba_entrepreneurship_Course Schedule.pdf`
 - URL: https://github.com/jedroland137-design/BA-Entrepreneurship/blob/87838ff094fc5adbf3524751c1af722d61e2a401/programme-documents/sap_ba_entrepreneurship_Course%20Schedule.pdf
 
