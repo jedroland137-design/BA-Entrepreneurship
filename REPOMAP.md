@@ -6,22 +6,46 @@
 
 ```text
 BA-Entrepreneurship/
+
 ├── MasterIndex
 ├── README.md
 ├── REPOMAP.md
 ├── courses/
-│   └── managerial-economics/
+│   ├── accounting-&-balancing/
+│   │   ├── course_info.md
+│   │   ├── Accounting & Balancing Notes 1.pdf
+│   │   └── accounting-&-balancing-coursebook.pdf
+│   │
+│   ├── international-contract-management/
+│   │   ├── course_info.md
+│   │   ├── Int. Contract Management Notes 1.docx
+│   │   └── int-contract-management-coursebook.pdf
+│   │
+│   ├── managerial-accounting/
+│   │   ├── course_info.md
+│   │   ├── Managerial Accounting Notes 1.docx
+│   │   └── managerial-accounting-coursebook.pdf
+│   │
+│   ├── managerial-economics/
+│   │   ├── course_info.md
+│   │   ├── Managerial Economics Notes 1.docx
+│   │   └── managerial-economics-coursebook.pdf
+│   │
+│   └── start-up-financing/
 │       ├── course_info.md
-│       ├── Managerial Economics Notes 1.docx
-│       ├── managerial-economics-coursebook.pdf
+│       ├── Start-Up Financing Notes 1.docx
+│       └── start-up-financing-coursebook.pdf
+│
 ├── programme-documents/
 │   ├── Entrepreneurship_Bachelor_English_Course Schedule OnCampus.pdf
 │   ├── ba_entrepreneurship_ModuleGuide_en.pdf
-│   ├── sap_ba_entrepreneurship_Course Schedule.pdf
+│   └── sap_ba_entrepreneurship_Course Schedule.pdf
+│
 ├── references/
 │   └── .gitkeep
-├── thesis/
-│   └── .gitkeep
+│
+└── thesis/
+    └── .gitkeep
 ```
 
 
@@ -35,15 +59,57 @@ BA-Entrepreneurship/
 
 ---
 
+
+
 ### Courses
 
+
+#### Accounting & Balancing
+
+Location: `/courses/accounting-&-balancing/`
+- course_info.md → defines course structure and outcomes
+- Accounting & Balancing Notes 1.pdf → course notes and revision material
+- accounting-&-balancing-coursebook.pdf → primary academic reference textbook
+
+---
+
+#### International Contract Management
+
+Location: `/courses/international-contract-management/`
+- course_info.md → defines course structure and outcomes
+- Int. Contract Management Notes 1.docx → coursebook notes
+- int-contract-management-coursebook.pdf → primary academic reference textbook
+
+---
+
+#### Managerial Accounting
+
+Location: `/courses/managerial-accounting/`
+- course_info.md → defines course structure and outcomes
+- Managerial Accounting Notes 1.docx → coursebook notes
+- managerial-accounting-coursebook.pdf → primary academic reference textbook
+
+---
+
 #### Managerial Economics
+
 Location: `/courses/managerial-economics/`
 - course_info.md → defines course structure and outcomes
 - Managerial Economics Notes 1.docx → coursebook notes
 - managerial-economics-coursebook.pdf → primary academic reference textbook
 
 ---
+
+#### Start-Up Financing
+
+Location: `/courses/start-up-financing/`
+- course_info.md → defines course structure and outcomes
+- Start-Up Financing Notes 1.docx → coursebook notes
+- start-up-financing-coursebook.pdf → primary academic reference textbook
+
+---
+
+
 
 ### Programme Documents
 Location: `/programme-documents/`
