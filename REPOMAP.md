@@ -53,7 +53,7 @@ BA-Entrepreneurship/
 ## 2. NAVIGATION LAYER (Semantic Interpretation)
 
 ### Core
-- MasterIndex → primary navigation hub (authoritative structure)
+- MasterIndex.md → primary navigation hub (authoritative structure)
 - README.md → general overview
 - REPOMAP.md → REPOMAP defines structural truth (file system)
 
